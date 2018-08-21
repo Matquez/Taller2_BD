@@ -1,0 +1,1 @@
+Server=localhost;Database=base_taller2;Uid=root;Pwd=m6246883;

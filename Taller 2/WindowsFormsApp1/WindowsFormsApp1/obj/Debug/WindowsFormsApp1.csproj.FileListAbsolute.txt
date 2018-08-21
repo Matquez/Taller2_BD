@@ -1,0 +1,63 @@
+C:\Users\alex\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\alex\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\alex\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\alex\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\alex\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\alex\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\alex\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\alex\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\alex\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\alex\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\alex\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\alex\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\alex\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\super\OneDrive\Desktop\Taller 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\super\OneDrive\Desktop\Taller 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\super\OneDrive\Desktop\Taller 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\super\OneDrive\Desktop\Taller 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\super\OneDrive\Desktop\Taller 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+C:\Users\super\OneDrive\Desktop\Taller 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\super\OneDrive\Desktop\Taller 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\super\OneDrive\Desktop\Taller 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\super\OneDrive\Desktop\Taller 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\super\OneDrive\Desktop\Taller 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\super\OneDrive\Desktop\Taller 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\super\OneDrive\Desktop\Taller 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\super\OneDrive\Desktop\Taller 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\super\OneDrive\Desktop\Taller 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin.resources
+C:\Users\super\OneDrive\Desktop\Taller 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Cliente.resources
+C:\Users\super\OneDrive\Desktop\Taller 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NuevaCuenta.resources
+C:\Users\super\OneDrive\Desktop\Taller 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CerrarCuenta.resources
+C:\Users\super\OneDrive\Desktop\Taller 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NuevoCliente.resources
+C:\Users\super\OneDrive\Desktop\Taller 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Deposito.resources
+C:\Users\super\OneDrive\Desktop\Taller 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Giro.resources
+C:\Users\super\OneDrive\Desktop\Taller 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InformeCuentasCerradas.resources
+C:\Users\super\OneDrive\Desktop\Taller 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InformeEstado.resources
+C:\Users\super\OneDrive\Desktop\Taller 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InformeGeneral.resources
+C:\Users\super\OneDrive\Desktop\Taller 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CambiarDir.resources
+C:\Users\super\OneDrive\Desktop\Taller 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MovimientosCuenta.resources
+C:\Users\Matías\Desktop\Base de datos mati-bast\Taller 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Matías\Desktop\Base de datos mati-bast\Taller 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Matías\Desktop\Base de datos mati-bast\Taller 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Matías\Desktop\Base de datos mati-bast\Taller 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\Matías\Desktop\Base de datos mati-bast\Taller 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+C:\Users\Matías\Desktop\Base de datos mati-bast\Taller 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\Matías\Desktop\Base de datos mati-bast\Taller 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Matías\Desktop\Base de datos mati-bast\Taller 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin.resources
+C:\Users\Matías\Desktop\Base de datos mati-bast\Taller 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CambiarDir.resources
+C:\Users\Matías\Desktop\Base de datos mati-bast\Taller 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CerrarCuenta.resources
+C:\Users\Matías\Desktop\Base de datos mati-bast\Taller 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Cliente.resources
+C:\Users\Matías\Desktop\Base de datos mati-bast\Taller 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Deposito.resources
+C:\Users\Matías\Desktop\Base de datos mati-bast\Taller 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Matías\Desktop\Base de datos mati-bast\Taller 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Giro.resources
+C:\Users\Matías\Desktop\Base de datos mati-bast\Taller 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InformeCuentasCerradas.resources
+C:\Users\Matías\Desktop\Base de datos mati-bast\Taller 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InformeEstado.resources
+C:\Users\Matías\Desktop\Base de datos mati-bast\Taller 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InformeGeneral.resources
+C:\Users\Matías\Desktop\Base de datos mati-bast\Taller 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MovimientosCuenta.resources
+C:\Users\Matías\Desktop\Base de datos mati-bast\Taller 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NuevaCuenta.resources
+C:\Users\Matías\Desktop\Base de datos mati-bast\Taller 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NuevoCliente.resources
+C:\Users\Matías\Desktop\Base de datos mati-bast\Taller 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Matías\Desktop\Base de datos mati-bast\Taller 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Matías\Desktop\Base de datos mati-bast\Taller 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Matías\Desktop\Base de datos mati-bast\Taller 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Matías\Desktop\Base de datos mati-bast\Taller 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
