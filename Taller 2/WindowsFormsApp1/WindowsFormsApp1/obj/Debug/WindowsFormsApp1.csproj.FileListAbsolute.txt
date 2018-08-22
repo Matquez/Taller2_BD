@@ -61,3 +61,4 @@ C:\Users\Matías\Desktop\Base de datos mati-bast\Taller 2\WindowsFormsApp1\Windo
 C:\Users\Matías\Desktop\Base de datos mati-bast\Taller 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\Matías\Desktop\Base de datos mati-bast\Taller 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\Matías\Desktop\Base de datos mati-bast\Taller 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Matías\Desktop\Base de datos mati-bast\Taller 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DesplegarTabla.resources

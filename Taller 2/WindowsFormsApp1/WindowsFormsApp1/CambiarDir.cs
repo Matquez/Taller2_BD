@@ -19,7 +19,26 @@ namespace WindowsFormsApp1
 
         private void button1_Click(object sender, EventArgs e)
         {
+            ConexMySQL conex = new ConexMySQL();
+            conex.open();
 
+            if(conex.executeNonQuery("UPDATE cliente " +
+                                  "SET direccion = ?direccion " +
+                                  "WHERE rut_cliente = ?rut_cliente;",
+                                  "?direccion", textBox2.Text,
+                                  "?rut_cliente", textBox1.Text) > 0)
+            {
+                MessageBox.Show("Actualizacion de direccion realizada con exito.");
+            }
+            else
+            {
+                MessageBox.Show("ERROR al Actualizar direccion.");
+            }
+            conex.close();
+
+            this.Close();
         }
+
+        
     }
 }

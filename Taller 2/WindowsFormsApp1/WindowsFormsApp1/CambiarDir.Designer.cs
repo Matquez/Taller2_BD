@@ -41,18 +41,19 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(32, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(240, 13);
+            this.label1.Size = new System.Drawing.Size(217, 13);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Ingrese el numero de cuenta y la nueva direccion";
+            this.label1.Text = "Ingrese el rut del cliente y la nueva direccion";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(12, 45);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(101, 13);
+            this.label2.Size = new System.Drawing.Size(33, 13);
             this.label2.TabIndex = 1;
-            this.label2.Text = "Numero de cuenta :";
+            this.label2.Text = "Rut  :";
+            
             // 
             // label3
             // 
@@ -70,6 +71,7 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(100, 20);
             this.textBox1.TabIndex = 3;
+            
             // 
             // textBox2
             // 

@@ -33,10 +33,13 @@ namespace WindowsFormsApp1
             }
             catch (FileNotFoundException ex)
             {
-                MessageBox.Show("Archivo de configuracion no encontrado");
+                MessageBox.Show("Archivo de configuracion no encontrado. \n\n Exception del tipo " + ex.GetType());
             }
         }
 
+        /*
+         * Abre el Connector para poder hacerles consultas
+         */
         public void open()
         {
             try
@@ -45,10 +48,12 @@ namespace WindowsFormsApp1
             }
             catch (MySqlException sqlex)
             {
-                MessageBox.Show("Error al intentar entrar en la base de datos, revise que los datos esten bien escritos");
+                MessageBox.Show("Exception del tipo " +sqlex.GetType() + "\n\nError al intentar entrar en la base de datos, revise que los datos esten bien escritos");
             }
         }
-
+        /*
+         * Cieran el MySQLConnection
+         */
         public void close()
         {
             try
@@ -62,7 +67,7 @@ namespace WindowsFormsApp1
             }
             catch (Exception e)
             {
-                MessageBox.Show("Error. Base de datos no encontrada.");
+                MessageBox.Show("Error. Base de datos no encontrada. \n\nError del tipo " + e.GetType());
             }
         }
 
@@ -92,14 +97,15 @@ namespace WindowsFormsApp1
                     comando.Transaction = transaccion;
                     comando.CommandText = query;
 
+                    //Agregamos los parametros no definidos a la query
                     for (int pos = 0; pos < values.Length; pos += 2)
                     {
                         comando.Parameters.AddWithValue(values[pos], values[pos + 1]);
                     }
-                    //Ejecutamos la query
-                    MessageBox.Show("Comando ejecutado");
+
+                    //Ejecutamos la query                    
                     resultado = comando.ExecuteNonQuery();
-                    MessageBox.Show("Comando ejecutado2");
+                    
                 }
                 //Finalizamos la transaccion exitosa
                 transaccion.Commit();
@@ -113,7 +119,9 @@ namespace WindowsFormsApp1
                 try
                 {
                     transaccion.Rollback();
-                    MessageBox.Show("Rollback");
+                    MessageBox.Show("Rollback. " +
+                        "\nPosibles causas: \n-Ya existe dicho dato en la BD. \n-Escribio mal los datos de la BD. " +
+                        "\n\n Exception del tipo " + ex.GetType());
                 }
                 catch (Exception e_sql)
                 {

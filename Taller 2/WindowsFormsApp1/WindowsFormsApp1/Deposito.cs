@@ -21,7 +21,7 @@ namespace WindowsFormsApp1
         {
             ConexMySQL conex = new ConexMySQL();
             conex.open();
-
+             
             if(conex.executeNonQuery("UPDATE cuenta_corriente " +
                                   "SET saldo_cuenta = saldo_cuenta + ?nuevo_saldo_cuenta " +
                                   "WHERE numero_cuenta = ?numero_cuenta;",
@@ -29,6 +29,16 @@ namespace WindowsFormsApp1
                                   "?numero_cuenta", textBox1.Text) > 0)
             {
                 MessageBox.Show("Deposito realizado con exito.");
+                conex.executeNonQuery("INSERT INTO transaccion_cuenta(id_cuenta_corriente, monto_transaccion, fecha_transaccion, hora_transaccion, id_tipo_transaccion) " +
+                                      "VALUES ((SELECT id_cuenta_corriente " +
+                                               "FROM cuenta_corriente " +
+                                               "WHERE numero_cuenta = ?numero_cuenta), ?monto_transaccion, ?fecha_transaccion, ?hora_transaccion, (SELECT id_tipo_transaccion " +
+                                                                                                                                                  "FROM tipo_transaccion " +
+                                                                                                                                                  "WHERE tipo_transaccion = 'deposito'))",
+                                        "?numero_cuenta", textBox1.Text,
+                                        "?monto_transaccion", textBox2.Text,
+                                        "?fecha_transaccion", DateTime.Today.ToString("yyyy-MM-dd"),
+                                        "?hora_transaccion", DateTime.Now.ToShortTimeString());
             }
             else
             {
